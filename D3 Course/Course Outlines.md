@@ -1,6 +1,7 @@
 # Course Outlines
 
 ## 2D Visualisations and Animations using D3.js
+#### TOTAL VIDEOS ~ 60
 
 <br>
 
@@ -19,7 +20,7 @@
 
 <hr>
 
-## Module 1 - SVG basics
+## Module 1 - SVG basics [3 vids]
 
 <br>
 
@@ -44,7 +45,7 @@
 
 <hr>
 
-## Module 2 - D3.js Basics
+## Module 2 - D3.js Basics [7 vids]
 
 <br>
 
@@ -94,7 +95,7 @@
 <br>
 <hr>
 
-## Module 3 - Digital Clock (Mini Project)
+## Module 3 - Digital Clock (Mini Project) [7 vids]
 
 https://github.com/pantchayan/D3-learn/tree/main/Digital%20Watch
 
@@ -139,7 +140,7 @@ https://github.com/pantchayan/D3-learn/tree/main/Digital%20Watch
 
 <hr>
 
-## Module 4 - Graphs and Charts using D3.js
+## Module 4 - Graphs and Charts using D3.js [9 vids]
 
 ### 19. Lets make Bar graphs
 -> How to go about it
@@ -191,56 +192,56 @@ https://github.com/pantchayan/D3-learn/tree/main/Digital%20Watch
 
 <hr>
 
-## Module 5 - Investment Tracker (Doughnut Chart)
+## Module 5 - Investment Tracker (Doughnut Chart) [10 vids]
 https://github.com/pantchayan/D3-learn/tree/main/Investment%20Tracker
 <br>
 
 <img src="./img/investment-tracker.png">
 
-### 27. Overview of the project
+### 28. Overview of the project
 -> List out the features and knowledge being used <br>
 -> Set up project files
 
-### 28. HTML and CSS Template
+### 29. HTML and CSS Template
 -> Use Bootstrap <br>
 -> No need to code live: Just explain the code.
 
-### 29. Integrate Firestore and Define schema
+### 30. Integrate Firestore and Define schema
 -> Use index.js to push data to the db
 <br>
 -> Use graph.js to retrieve data
 
-### 30. Pie charts and arcs
+### 31. Pie charts and arcs
 -> Explain in detail how arcs are formed
 -> .pie() function 
 -> .arc() function
 -> Pie chart to Doughnut chart conversion
 
-### 31. Ordinal Scale
+### 32. Ordinal Scale
 
 -> Bringing colors to the chart
 
-### 32. Making Update function
+### 33. Making Update function
 
 -> d3 optic pattern in action
 
-### 33. Enter and Update Tween
+### 34. Enter and Update Tween
 
 -> Adding transitions to data updation and initial injestion
 
-### 34. Adding Legend
+### 35. Adding Legend
 
 -> Adding circles
 <br>
 -> Adding texts
 
 
-### 35. User Interactivity in D3
+### 36. User Interactivity in D3
 -> Handle Mouse events and hover  <br>
 -> Click : Delete the item <br>
 -> Hover : Show Details and Opacity change <br>
 
-### 36. Ending notes and Learning Outcomes
+### 37. Ending notes and Learning Outcomes
 
 
 
@@ -249,9 +250,9 @@ https://github.com/pantchayan/D3-learn/tree/main/Investment%20Tracker
 
 <hr>
 
-## Module 6 - More in D3.js
+## Module 6 - More in D3.js [3 vids]
 
-###  37. How to make elements Responsive
+###  38. How to make elements Responsive
 
 3 ways :
 <ol>
@@ -265,7 +266,7 @@ https://github.com/pantchayan/D3-learn/tree/main/Investment%20Tracker
 </ol>
 
 
-### 38. Line graphs in D3
+### 39. Line graphs in D3
 
 -> Make a simple line graph to demonstrate
 
@@ -278,7 +279,7 @@ https://github.com/pantchayan/D3-learn/tree/main/Investment%20Tracker
 
 <hr>
 
-## Module 7 - Google Fit UI 
+## Module 7 - Google Fit UI [11 vids]
 
 <img src="./img/google-fit-ui.png">
 
@@ -317,7 +318,7 @@ https://github.com/pantchayan/D3-learn/tree/main/Investment%20Tracker
 
 <hr>
 
-## Module 8 - SVG animations
+## Module 8 - SVG animations [3 vids]
 https://github.com/pantchayan/D3-learn/tree/main/SVG%20Animations
 
 ### 52. Intro to SVG Animations
@@ -339,22 +340,21 @@ https://github.com/pantchayan/D3-learn/tree/main/SVG%20Animations
 
 <hr>
 
-## Module 9 - SVG Football Game
+## Module 9 - SVG Football Game [6 vids]
 
 https://github.com/pantchayan/football-game
 <img src="./img/Football-Game.gif">
 
-### 55
 
-### 56
+### Will take up around 6 videos (55 - 60)
 
-### 57
+<br>
+<hr>
+<hr>
+<hr>
 
-### 58
 
-### 59
-
-### 60
+## FINISH
 
 
 
