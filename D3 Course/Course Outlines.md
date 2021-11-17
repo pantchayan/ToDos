@@ -272,7 +272,8 @@ https://github.com/pantchayan/D3-learn/tree/main/Investment%20Tracker
 
 ### 40. **Racing graphs
 
--> Look into it... 
+<img src="./img/Racing-Bar-Chart.gif">
+
 
 <br>
 <br>
