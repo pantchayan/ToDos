@@ -15,7 +15,7 @@ Load an SVG and PNG of the same image on browser and zoom in to show difference.
 </li>
 
 <li>
-Introduce SVG tag
+Introduce SVG tag.
 </li>
 
 
@@ -23,8 +23,4 @@ Introduce SVG tag
 
 ### Resources : 
 
-https://d3js.org/
-
-https://pantchayan.github.io/football-game/
-
-https://pantchayan.github.io/Google-Fit-Clone/
+Added code files
