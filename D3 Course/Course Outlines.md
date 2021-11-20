@@ -120,16 +120,18 @@ https://github.com/pantchayan/D3-learn/tree/main/Digital%20Watch
 ### 14. Making a single digit
 
 -> Explain how we can make a digit by grouping squares in D3
+
+### 15. Make the digit tick
+
 <br>
 -> Data matrix of 0s and 1s
 <br>
 -> Make the digit count till 0-9
 
-### 15. \*\* Implement structure for 6 digits
 
-### 16. \*\* Make the clock work
+### 16. \*\* Implement structure for 6 digits
 
-### 17. Add styles and Refactor code
+### 17. \*\* Make the clock work
 
 ### 18. Discuss learning outcomes
 
