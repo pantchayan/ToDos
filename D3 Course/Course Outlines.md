@@ -145,31 +145,32 @@ https://github.com/pantchayan/D3-learn/tree/main/Digital%20Watch
 ## Module 4 - Graphs and Charts using D3.js [9 vids]
 
 ### 19. Lets make Bar graphs
--> How to go about it
-
-### 20. Scales in D3
+-> How to go about it <br>
 -> Why we need scales <br>
+
+### 20. Linear Scale in D3.js
 -> Linear scales <br>
+
+### 21. Band Scale in D3.js
 -> Band scales <br>
 
-### 21. Making rects for Bar Chart
+
+### 22. Making rects for Bar Chart
 -> Importing data from JSON 
-<br>
--> Drawing rects 
 <br>
 -> Updating positions (Maths) to match x-y axes
 
-### 22. Axes Groups
+### 23. Axes Groups
 -> Making axis in D3
 <br>
 -> Axis groups implementation 
 
-### 23. Hooking up Firestore (Real time updation)
+### 24. Hooking up Firestore (Real time updation)
 -> Firestore integration to the project.
 <br>
 -> Get data from firestore and log to console
 
-### 24. D3 Optic Pattern (Updating elements)
+### 25. D3 Optic Pattern (Updating elements)
 -> Creating update function 
 <br>
 -> Explain: Enter and Exit selection
@@ -178,14 +179,14 @@ https://github.com/pantchayan/D3-learn/tree/main/Digital%20Watch
 <br>
 -> Explain steps
 
-### 25. Join method in D3
+### 26. Join method in D3
 -> Simpler way out 
 
-### 26. Transitions in D3
+### 27. Transitions in D3
 -> Intro to simple transitions <br>
 -> Make bar graph enter and update smooth
 
-### 27. Tweens and Interpolations
+### Misc. Tweens and Interpolations
 -> Give intro, and explain how basic transitions are easy
 
 
